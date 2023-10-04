@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:psd_day8_firebase2/mvvm_sample/CounterViewModel.dart';
+import 'package:psd_day8_firebase2/mvvm_sample/HomePageViewModel.dart';
 
 
 class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final counterViewModel = Provider.of<CounterViewModel>(context);
+    final counterViewModel = Provider.of<HomePageViewModel>(context);
 
     return Scaffold(
       appBar: AppBar(
