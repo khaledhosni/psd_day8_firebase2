@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183959035946",
+    "project_id": "psd-training",
+    "storage_bucket": "psd-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183959035946:android:3a468de920245cdb2a2353",
+        "android_client_info": {
+          "package_name": "com.example.psd_day8_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5yxsC3Q1cYgvmgPDS_ptY8gzSHM4J40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183959035946:android:686ff08b9e9c89c42a2353",
+        "android_client_info": {
+          "package_name": "com.example.psd_day8_firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5yxsC3Q1cYgvmgPDS_ptY8gzSHM4J40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
